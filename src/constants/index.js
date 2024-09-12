@@ -27,6 +27,10 @@ import {
 
 export const navLinks = [
   {
+    id: 'learn-coding',
+    title: 'Learn Coding',
+  },
+  {
     id: 'about',
     title: 'About',
   },
@@ -37,6 +41,10 @@ export const navLinks = [
   {
     id: 'contact',
     title: 'Contact',
+  },
+  {
+   id: 'beyond-coding',
+   title: 'Beyond Coding', 
   },
 ];
 
