@@ -16,7 +16,5 @@ A huge thank you to the following resources and inspirations:
 - [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 - [TailwindCSS](https://tailwindcss.com)
 
-# Come See Me
 
-An 'About Me' Section
 
