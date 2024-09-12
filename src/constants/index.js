@@ -41,6 +41,7 @@ export const navLinks = [
   {
     id: 'beyond-coding',
     title: 'Beyond Coding',
+    path: '/beyond-coding',
   },
 ];
 
