@@ -7,7 +7,6 @@ import Experience from './Experience';
 import Works from './Works';
 import Feedbacks from './Feedbacks';
 import Contact from './Contact';
-import BeyondCodingRedirect from './BeyondCodingRedirect';
 
 export {
   Hero,
@@ -21,6 +20,5 @@ export {
   EarthCanvas, 
   BallCanvas, 
   ComputersCanvas, 
-  StarsCanvas,
-  BeyondCodingRedirect
+  StarsCanvas
 }

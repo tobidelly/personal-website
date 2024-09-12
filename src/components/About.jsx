@@ -44,7 +44,13 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        As a Full Stack Software Engineer, I specialize in developing scalable, high-performance applications across both front-end and back-end systems. I excel in front-end development with React.js, delivering dynamic, responsive interfaces using techniques like lazy loading and efficient state management. On the back-end, I’m experienced with Express, Node.js, Django, and Flask, designing RESTful APIs and optimizing server-side performance. My expertise spans both SQL and NoSQL databases, including MySQL, PostgreSQL, and MongoDB. Additionally, I implement DevOps practices, setting up CI/CD pipelines and leveraging Docker for streamlined deployments, with experience in cloud platforms like AWS and Google Cloud.
+        As a seasoned AI Engineer proficient in Python and Machine Learning, I
+        bring a wealth of experience and a proven track record in successfully
+        executing large-scale projects. With a strong foundation in cutting-edge
+        algorithms, I am eager to join a top-tier AI development team. Together,
+        we can tackle complex AI challenges and drive innovation to new heights.
+        Let's shape the future of artificial intelligence and create
+        extraordinary solutions.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

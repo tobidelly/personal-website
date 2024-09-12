@@ -1,5 +1,4 @@
-/*import { BrowserRouter } from 'react-router-dom';
-import BeyondCodingRedirect from './components/BeyondCodingRedirect';
+import { BrowserRouter } from 'react-router-dom';
 
 import {
   About,
@@ -32,91 +31,6 @@ function App() {
         </div>
       </div>
     </BrowserRouter>
-  );
-}
-
-export default App; */
-/*import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import BeyondCodingRedirect from './components/BeyondCodingRedirect'; // Import your redirect component
-
-import {
-  About,
-  Contact,
-  Experience,
-  Feedbacks,
-  Hero,
-  Navbar,
-  Tech,
-  Works,
-  StarsCanvas,
-} from './components';
-
-function App() {
-  return (
-    <BrowserRouter>
-      <Navbar />
-      <Routes>
-        <Route path="/" element={
-          <div className="relative z-0 bg-primary">
-            <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
-              <Hero />
-            </div>
-            <About />
-            <Experience />
-            <Tech />
-            <Works />
-            <Feedbacks />
-            <div className="relative z-0">
-              <Contact />
-              <StarsCanvas />
-            </div>
-          </div>
-        } />
-        <Route path="/beyond-coding" element={<BeyondCodingRedirect />} />
-      </Routes>
-    </BrowserRouter>
-  );
-}
-
-export default App;*/
-import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import BeyondCodingRedirect from './components/BeyondCodingRedirect'; // Import the BeyondCoding component
-
-import {
-  About,
-  Contact,
-  Experience,
-  Feedbacks,
-  Hero,
-  Navbar,
-  Tech,
-  Works,
-  StarsCanvas,
-} from './components';
-
-function App() {
-  return (
-    <Router>
-      <div className="relative z-0 bg-primary">
-        <Navbar />
-        <Routes>
-          <Route path="/" element={
-            <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
-              <Hero />
-              <About />
-              <Experience />
-              <Tech />
-              <Works />
-              <Feedbacks />
-              <Contact />
-              <StarsCanvas />
-            </div>
-          } />
-          <Route path="/beyond-coding" element={<BeyondCodingRedirect />} />
-        </Routes>
-      </div>
-    </Router>
   );
 }
 

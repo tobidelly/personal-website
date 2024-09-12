@@ -38,11 +38,6 @@ export const navLinks = [
     id: 'contact',
     title: 'Contact',
   },
-  {
-    id: 'beyond-coding',
-    title: 'Beyond Coding',
-    path: '/beyond-coding',
-  },
 ];
 
 const services = [
