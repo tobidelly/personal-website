@@ -29,9 +29,9 @@ import miva from './company/miva.png';
 import GitHub from './company/GitHub.png';
 import tanteeta from './company/tanteeta.png';
 
-import kamel_tourki from './testimonials/kamel_tourki.jpg';
-import nati_gezahegn from './testimonials/nati_gezahegn.jpg';
-import zakaria from './testimonials/zakaria.jpg';
+import toluahmed from './testimonials/toluahmed.jpeg';
+import olaoluwa from './testimonials/olaoluwa.jpeg';
+import emeka from './testimonials/emeka.jpeg';
 
 import gan_dapt from './gan_dapt.jpg';
 import neuro_drive from './neuro_drive.jpg';
@@ -63,13 +63,13 @@ export {
   pandas,
   pycharm,
   jupyter,
-  kamel_tourki,
-  nati_gezahegn,
-  zakaria,
   alx,
   hagital,
   kidscode,
   miva,
   GitHub,
   tanteeta,
+  toluahmed,
+  olaoluwa,
+  emeka,
 };
