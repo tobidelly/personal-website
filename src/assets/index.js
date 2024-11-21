@@ -22,6 +22,12 @@ import adani from './company/adani.png';
 import bn_software from './company/bn_software.jpg';
 import ericsson from './company/ericsson.png';
 import copernilabs_logo from './company/copernilabs_logo.jpg';
+import alx from './company/alx.jpg';
+import hagital from './company/hagital.jpeg';
+import kidscode from './company/kidscode.png';
+import miva from './company/miva.png';
+import GitHub from './company/GitHub.png';
+import tanteeta from './company/tanteeta.png';
 
 import kamel_tourki from './testimonials/kamel_tourki.jpg';
 import nati_gezahegn from './testimonials/nati_gezahegn.jpg';
@@ -60,4 +66,10 @@ export {
   kamel_tourki,
   nati_gezahegn,
   zakaria,
+  alx,
+  hagital,
+  kidscode,
+  miva,
+  GitHub,
+  tanteeta,
 };
