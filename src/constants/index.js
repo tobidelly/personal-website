@@ -20,15 +20,15 @@ import {
   bn_software,
   ericsson,
   copernilabs_logo,
-  kamel_tourki,
-  nati_gezahegn,
-  zakaria,
   miva,
   tanteeta,
   alx,
   hagital,
   kidscode,
   GitHub,
+  emeka,
+  olaoluwa,
+  toluahmed,
 } from '../assets';
 
 export const navLinks = [
@@ -183,27 +183,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      'An AI optimization prodigy for OFDM (mainly 5G), with outstanding problem solving skills and strong programming expertise, making him highly recommended.',
-    name: 'Kamel Tourki',
-    designation: 'Research and Standardization Manager',
-    company: 'Ericsson',
-    image: kamel_tourki,
-  },
-  {
-    testimonial:
-      'He has exemplified extraordinary prowess as a devoted, tireless, and imaginative AI master, coupled with remarkable personal qualities that radiate brilliance.',
-    name: 'Nathnael Gezahegn',
+      'Tobi blends his technical expertise—C, React.js, Node.js, Python, and cloud technologies—with a strong business mindset. His ability to deliver scalable, high-performance apps while keeping user experience at the forefront is exceptional',
+    name: 'Tolulope Ahmed',
     designation: 'CEO',
-    company: 'BN Technologies',
-    image: nati_gezahegn,
+    company: 'MyFund App',
+    image: toluahmed,
   },
   {
     testimonial:
-      'Eskinder is an exceptional AI expert, demonstrating unmatched talent in research, critical thinking, and harnessing PyTorch and Keras to their fullest potential.',
-    name: 'Zakaria El Moutaki',
-    designation: 'Standardization Researcher',
-    company: 'Ericsson',
-    image: zakaria,
+      'During his time with us, Tobi consistently delivered high-quality work, translating complex requirements into intuitive, user-friendly interfaces.',
+    name: 'Olaoluwa Balogun',
+    designation: 'CEO',
+    company: 'Tanteeta Robotics',
+    image: olaoluwa,
+  },
+  {
+    testimonial:
+      'Tobi is an exceptional student, harnessing and leveraging the power of technology and artificial intelligence to create a better world for all.',
+    name: 'Emeka Ogbuju',
+    designation: 'PhD Artificial Intelligence',
+    company: 'Miva Open University',
+    image: emeka,
   },
 ];
 
