@@ -7,6 +7,13 @@ import github from './github.png';
 import menu from './menu.svg';
 import close from './close.svg';
 
+import nli from './nli.jpg';
+import oracle from './oracle.png';
+import new_relic from './new_relic.jpeg';
+import mini_mba from './mini_mba.jpeg';
+import holberton from './holberton.png';
+
+
 import python from './tech/python.png';
 import tensorflow from './tech/tensorflow.png';
 import scikit_learn from './tech/scikit_learn.png';
@@ -72,4 +79,9 @@ export {
   toluahmed,
   olaoluwa,
   emeka,
+  nli,
+  oracle,
+  new_relic,
+  mini_mba,
+  holberton,
 };
