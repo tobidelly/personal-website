@@ -11,6 +11,7 @@ import {
   Works,
   StarsCanvas,
   Footer,
+  EducationalQualifications,
 } from './components';
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
         <Experience />
         <Tech />
         <Works />
+        <EducationalQualifications />
         <Feedbacks />
         <div className="relative z-0">
           <Contact />
