@@ -102,10 +102,10 @@ const Footer = () => {
 
         {/* Contact and Copyright Info */}
         <p className="text-secondary text-sm text-center mb-2">
-          Tel: +2347031118649
+          Tel: +(234)-0-703-111-8649
         </p>
         <p className="text-secondary text-sm text-center">
-          Ikoyi, Nigeria
+          Banana Island
         </p>
         <p className="text-secondary text-xs text-center mt-4">
           &copy; 2024 Tobi Delly | tobidelly@gmail.com
