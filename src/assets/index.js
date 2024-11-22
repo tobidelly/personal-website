@@ -40,8 +40,8 @@ import toluahmed from './testimonials/toluahmed.jpeg';
 import olaoluwa from './testimonials/olaoluwa.jpeg';
 import emeka from './testimonials/emeka.jpeg';
 
-import gan_dapt from './gan_dapt.jpg';
-import neuro_drive from './neuro_drive.jpg';
+import b2b2c from './b2b2c.jpg';
+import blockchain from './blockchain.jpg';
 import market_predict from './market_predict.jpg';
 
 export {
@@ -53,8 +53,6 @@ export {
   github,
   menu,
   close,
-  gan_dapt,
-  neuro_drive,
   market_predict,
   microsoft,
   adani,
@@ -84,4 +82,6 @@ export {
   new_relic,
   mini_mba,
   holberton,
+  b2b2c,
+  blockchain,
 };
