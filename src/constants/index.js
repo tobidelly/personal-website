@@ -29,12 +29,17 @@ import {
   emeka,
   olaoluwa,
   toluahmed,
+  nli,
+  oracle,
+  new_relic,
+  mini_mba,
+  holberton,
 } from '../assets';
 
 export const navLinks = [
   {
-    id: 'learn-coding',
-    title: 'Learn Coding',
+    id: 'iwritelab',
+    title: 'iWriteLab',
   },
   {
     id: 'about',
@@ -49,9 +54,8 @@ export const navLinks = [
     title: 'Contact',
   },
   {
-   id: 'beyond-coding',
-   title: 'Beyond Coding',
-   URL: 'https://tobidelly.github.io/beyond-coding/'
+   id: 'education',
+   title: 'Education',
   },
 ];
 
@@ -273,5 +277,79 @@ const projects = [
       'https://github.com/ESKINDERTSEGAYE/Project-Market-Value-Predictor',
   },
 ];
+const qualifications = [
+  {
+    date: '2024-2026',
+    degree: 'Bachelor of Science',
+    institution: 'Miva Open University',
+    description: 'Software Engineering.',
+    tags: [
+      { name: 'AI', color: 'text-blue-500' },
+      { name: 'ML', color: 'text-green-500' },
+    ],
+    icon: miva,
+    iconBg: '#FFFFFF',
+  },
+  {
+    date: '2024-2025',
+    degree: 'Leadership and Management',
+    institution: 'Nehemiah Leadership Institute',
+    description: 'Leadership Management.',
+    tags: [
+      { name: 'Leadership', color: 'text-white-500' },
+      { name: 'Management', color: 'text-purple-500' },
+    ],
+    icon: nli,
+    iconBg: '#FFFFFF',
+  },
+  {
+    date: '2023-2024',
+    degree: 'Software Engineering Diploma',
+    institution: 'Holberton School, USA',
+    description: 'Full Stack Software Engineering.',
+    tags: [
+      { name: 'FullStack', color: 'text-yellow-500' },
+      { name: 'Database', color: 'text-purple-500' },
+    ],
+    icon: holberton,
+    iconBg: '#FFFFFF',
+  },
+    {
+    date: '2024',
+    degree: 'Mini MBA in Technology Management',
+    institution: 'Institute of Management and Technology',
+    description: 'Technology Management.',
+    tags: [
+      { name: 'Tech', color: 'text-yellow-500' },
+      { name: 'Startup', color: 'text-blue-500' },
+    ],
+    icon: mini_mba,
+    iconBg: '#FFFFFF',
+  },
+   {
+    date: '2024',
+    degree: 'Oracle Cloud Infrastructure Certified Generative AI Professional',
+    institution: 'Oracle University',
+    description: 'Artificial Intelligence.',
+    tags: [
+      { name: 'AI', color: 'text-blue-500' },
+      { name: 'GenAI', color: 'text-purple-500' },
+    ],
+    icon: oracle,
+    iconBg: '#FFFFFF',
+  },
+  {
+    date: '2024',
+    degree: 'New Relic Full-Stack Observability Certified Professional',
+    institution: 'New Relic University',
+    description: 'Tech Stack Observability.',
+    tags: [
+      { name: 'Observability', color: 'text-yellow-500' },
+      { name: 'NRQL', color: 'text-red-500' },
+    ],
+    icon: new_relic,
+    iconBg: '#FFFFFF',
+  }, 
+];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologies, experiences, testimonials, projects, qualifications };
