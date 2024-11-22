@@ -12,8 +12,6 @@ import {
   backend,
   creator,
   web,
-  gan_dapt,
-  neuro_drive,
   market_predict,
   microsoft,
   adani,
@@ -34,6 +32,8 @@ import {
   new_relic,
   mini_mba,
   holberton,
+  b2b2c,
+  blockchain,
 } from '../assets';
 
 export const navLinks = [
@@ -213,9 +213,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: 'GAN-DAPT',
+    name: 'Full Stack B2B2C Web Application',
     description:
-      'Leveraging domain-invariant image translations, I combined domain adaptation and generalization techniques for improved image segmentation.',
+      'Built this project using typescript and tailwind for frontend, prisma for schema, nodejs and express for backend while mySQL for database management.',
     tags: [
       {
         name: 'DaSeGAN',
@@ -230,13 +230,13 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: gan_dapt,
-    source_code_link: 'https://github.com/',
+    image: b2b2c,
+    source_code_link: 'https://github.com/tobidelly',
   },
   {
-    name: 'Neuro Drive',
+    name: 'Blockchain Implementation in C',
     description:
-      'Successfully trained a cutting-edge self-driving car using Convolution neural networks (CNN) utilizing a state-of-the-art simulator provided by Udacity.',
+      'This project demonstrates a basic blockchain implementation in C, showcasing core blockchain features and advanced functionalities like Proof of Work, serialization, and networking',
     tags: [
       {
         name: 'Opencv-python',
@@ -251,13 +251,13 @@ const projects = [
         color: 'pink-text-gradient',
       },
     ],
-    image: neuro_drive,
-    source_code_link: 'https://github.com/',
+    image: blockchain,
+    source_code_link: 'https://github.com/tobidelly/blockchain_project',
   },
   {
-    name: 'Market Value Predictor',
+    name: 'Mobile App for Seamless Tailor Measurement',
     description:
-      "I developed a powerful regression model using machine learning algorithms to predict professional football players' market value accurately.",
+      "I developed a mobile application using NativeScript to enable tailors take, record and save measurements seamlessly.",
     tags: [
       {
         name: 'Python',
@@ -274,7 +274,7 @@ const projects = [
     ],
     image: market_predict,
     source_code_link:
-      'https://github.com/ESKINDERTSEGAYE/Project-Market-Value-Predictor',
+      'https://github.com/tobidelly',
   },
 ];
 const qualifications = [
