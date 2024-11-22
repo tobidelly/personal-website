@@ -218,15 +218,15 @@ const projects = [
       'Built this project using typescript and tailwind for frontend, prisma for schema, nodejs and express for backend while mySQL for database management.',
     tags: [
       {
-        name: 'DaSeGAN',
+        name: 'B2B2C',
         color: 'blue-text-gradient',
       },
       {
-        name: 'DaSeGAN-S',
+        name: 'e-commerce',
         color: 'green-text-gradient',
       },
       {
-        name: 'DaSeGAN-T',
+        name: 'Backend',
         color: 'pink-text-gradient',
       },
     ],
@@ -239,15 +239,15 @@ const projects = [
       'This project demonstrates a basic blockchain implementation in C, showcasing core blockchain features and advanced functionalities like Proof of Work, serialization, and networking',
     tags: [
       {
-        name: 'Opencv-python',
+        name: 'C',
         color: 'blue-text-gradient',
       },
       {
-        name: 'Pandas',
+        name: 'SHA-256',
         color: 'green-text-gradient',
       },
       {
-        name: 'Numpy',
+        name: 'Blockchain',
         color: 'pink-text-gradient',
       },
     ],
@@ -260,15 +260,15 @@ const projects = [
       "I developed a mobile application using NativeScript to enable tailors take, record and save measurements seamlessly.",
     tags: [
       {
-        name: 'Python',
+        name: 'NativeScript',
         color: 'blue-text-gradient',
       },
       {
-        name: 'Linear Regression',
+        name: 'Javascript',
         color: 'green-text-gradient',
       },
       {
-        name: 'Numpy',
+        name: 'React Native',
         color: 'pink-text-gradient',
       },
     ],
