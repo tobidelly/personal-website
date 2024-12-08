@@ -38,10 +38,19 @@ import {
 
 export const navLinks = [
   {
-    id: 'iwritelab',
-    title: 'iWriteLab',
+    id: 'blog',
+    title: 'Blog',
+    URL: 'https://dev.to/tobidelly/',
+  },
+  { id: 'technologies',
+    title: 'Projects',
   },
   {
+    id: 'resume',
+    title: 'Resume',
+    URL: 'https://drive.google.com/file/d/12-YZGtuNixCUfLnMX7Oak_s5GC2VaAy2/view?usp=sharing',
+  },
+  /*{
     id: 'about',
     title: 'About',
   },
@@ -50,13 +59,14 @@ export const navLinks = [
     title: 'Work',
   },
   {
+   id: 'education',
+   title: 'Education',
+  },*/
+  {
     id: 'contact',
     title: 'Contact',
   },
-  {
-   id: 'education',
-   title: 'Education',
-  },
+ 
 ];
 
 const services = [
